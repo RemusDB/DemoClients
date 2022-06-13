@@ -1,0 +1,59 @@
+---Different options:
+
+#### Exercise: Comparing visuals 
+id: knowledge-test-types-data
+url: knowledge-test-types-data
+type: quiz
+
+##### Content
+
+<p>From the weekly discussions with Marketing you get the feedback that would be interesting to also analyze the average transaction value for each product category.</p>
+
+<p>You have 2 options to do this</p>
+
+<p>Option A:</p>
+
+<p align="middle"><img src="/static/Option_A.png" 
+alt="recursion" align="middle" style="max-width: 100%"></p>
+
+<p>Option B:</p>
+
+<p align="middle"><img src="/static/OptionB.png" 
+alt="recursion" align="middle" style="max-width: 100%"></p>
+
+
+##### Task: Choose the most effective visual
+type: multichoice
+answer: 1
+
+###### Question
+
+<p>Which option would you go for to include in your presentation for the next management meeting?</p>
+
+###### Option #1
+
+<p>Option A</p>
+
+####### Option Feedback
+
+<p>Correct! Bar charts are always useful to depicts numeric values against distinct categories</p>
+
+###### Option #2
+
+<p>Both options work</p>
+
+####### Option Feedback
+
+<p>Not quite, think again!</p>
+
+###### Option #3
+
+<p>Option B</p>
+
+####### Option Feedback
+
+<p>Pie charts are best to use when you are trying to compare parts of a whole</p>
+
+###### Hint
+
+<p>Choose one of the provided options.</p>

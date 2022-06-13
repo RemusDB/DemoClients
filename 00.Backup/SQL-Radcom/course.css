@@ -1,0 +1,46 @@
+.ex-blue-font {
+  color: rgba(84, 186, 212, 1);
+  font-weight: bold;
+}
+
+.ex-pink-font {
+  color: rgba(212, 82, 152, 1);
+  font-weight: bold;
+}
+
+.ex-purple-font {
+  color: rgba(126, 87, 194, 1);
+  font-weight: bold;
+}
+
+
+.ex-blue:nth-child(odd) {
+  background-color: rgba(84, 186, 212, 0.35);
+}
+
+.ex-blue:nth-child(even) {
+  background-color: rgba(84, 186, 212, 0.25);
+}
+
+.ex-pink:nth-child(odd) {
+  background-color: rgba(212, 82, 152, 0.35);
+}
+
+.ex-pink:nth-child(even) {
+  background-color: rgba(212, 82, 152, 0.25);
+}
+
+.ex-purple:nth-child(odd) {
+  background-color: rgba(126, 87, 194, 0.35);
+}
+
+.ex-purple:nth-child(even) {
+  background-color: rgba(126, 87, 194, 0.25);
+}
+
+
+.ex-colgroup {
+  border-style: solid;
+  border-color: #7e57c2;
+  border-width: 2px;
+}
