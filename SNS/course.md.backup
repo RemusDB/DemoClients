@@ -1,5 +1,5 @@
 
-# SNS : SNS Bank Datagedreven Beslissingen met Tableau
+# SNS : Analzying SNS Bank data with Tableau
 format_version: 3.0
 id: analyze-sns
 url: analyze-sns
@@ -10,7 +10,7 @@ estimated_time: 4
 
 ## Short Description
 
-Door het zelf verzamelen en analyseren van data kan elke professional goede en snelle beslissingen maken.
+To make great decisions every business professional should be able to acquire and analyze data.
 
 ## Long Description
 
