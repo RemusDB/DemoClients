@@ -1,0 +1,47 @@
+#### Exercise: Analze data from heatmap
+id: analyze-heatmap
+url: analyze-heatmap
+type: quiz
+
+##### Content
+
+<p>You are analyzing the FoodTiger Sales dashboard:<p>
+
+<p align="middle"><img src="/static/HeatMap.png" alt="recursion" align="middle" style="max-width: 100%"></p>
+
+
+##### Task: Identify top sales
+type: multichoice
+answer: 2
+
+###### Question
+
+<p>Which was the month with highest sales for Seafood?</p>
+
+###### Option #1
+
+<p>January</p>
+
+####### Option Feedback
+
+<p>Are you looking at Seafood sales?</p>
+
+###### Option #2
+
+<p>April</p>
+
+####### Option Feedback
+
+<p>That is right!</p>
+
+###### Option #3
+
+<p>February</p>
+
+####### Option Feedback
+
+<p>Not quite, take a second look at the heatmap</p>
+
+###### Hint
+
+<p>Take a close look at the heatmap, identify the Seafood column and then visually identify the month with highest sales.</p>
