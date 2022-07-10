@@ -59,13 +59,13 @@ answer: 3
 <p align="middle"><img src="/static/AnalyticalProblems.png" alt="recursion" align="middle" style="max-width: 100%"></p>
 
 
-##### Task: Most popular takeaway choices
+##### Task: Current account types
 type: multichoice
 answer: 2
 
 ###### Question
 
-<p>As a marketing analyst at SNS Bank, you want to understand your traffic sources and divide it into organic search, referral and social network. What type of analytical problem type are you trying to solve?</p>
+<p>As a marketing analyst at SNS Bank, you want to understand how many clients have account types Basis, Complete and Youth. What type of analytical problem type are you trying to solve?</p>
 
 ###### Option #1
 
@@ -73,7 +73,7 @@ answer: 2
 
 ####### Option Feedback
 
-<p>Not quite. Predicting the traffic sources would be an example of making predictions.</p>
+<p>Not quite. Predicting the future current account split would be an example of making predictions.</p>
 
 ###### Option #2
 
@@ -81,7 +81,7 @@ answer: 2
 
 ####### Option Feedback
 
-<p>That’s correct! When you are dividing your traffic into organic search, referral and social network you are categorizing things.</p>
+<p>That’s correct! When you are dividing accounts into Basis, Complete and Youth you are categorizing things.</p>
 
 ###### Option #3
 
@@ -89,7 +89,7 @@ answer: 2
 
 ####### Option Feedback
 
-<p>Not exactly. An example of something unusual would be an abnormally higher traffic in a specific timeframe.</p>
+<p>Not exactly. An example of something unusual would be an abnormally higher number of accounts in a specific timeframe.</p>
 
 ###### Hint
 
@@ -101,7 +101,7 @@ answer: 2
 id: powerbi-intro
 url: powerbi-introduction
 type: video
-video: https://vimeo.com/701826716
+video: https://vimeo.com/700812199
 
 ##### Content
 

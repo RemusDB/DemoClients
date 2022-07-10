@@ -24,7 +24,7 @@ url: types-data
 id: kpi-card
 url: kpi-card
 type: video
-video: https://vimeo.com/701424855/b57e07ba61
+video: https://vimeo.com/718431335/579b5bfab7
 
 ##### Content
 
@@ -50,14 +50,14 @@ We can find this out by adding a stacked vertical bar chart and dragging the col
 <p>Also, you can play around with the sorting to slice and dice your data.
 Even more, you can change the visualisation type so that you can choose the best storyline for you. Awesome, right?</p>
 
-#### Exercise: Choosing effective visuals for average delivery time evolution
+#### Exercise: Choosing effective visuals for campaign performance
 id: multichoice-test-knowledge
 url: multichoice-test-knowledge
 type: quiz
 
 ##### Content
 
-<p>In the past period you see a decrease in rating for several restaurants and you decide to look at their average delivery time evolution:<p>
+<p>You are a marketing specialist and want to do an analysis on the performance of your marketing channels. You decide to use click-through-rate (CTR) for this analysis because this metric is a strong performance indicator that helps you understand your customers:<p>
 
 <p align="middle"><img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStyV0dE74Z_9-X0lLky7e5MQlOfUGwwDA2RdL7iADARlWoZHuGHN4JFsxb0G6rqGF3zqofl2bQZbdR/pubchart?oid=1267966403&format=image" 
 alt="recursion" align="middle" style="max-width: 100%"></p>
@@ -73,7 +73,7 @@ answer: 1
 
 ###### Question
 
-<p>Which visual would you choose to focus the attention more on the the trend rather than on invidiual values?</p>
+<p>Which visual would you choose to focus the attention more on the the CTR trend rather than on invidiual values?</p>
 
 ###### Option #1
 
@@ -106,30 +106,30 @@ answer: 1
 
 
 
-#### Exercise: Analyze most popular takeaways###########
+#### Exercise: Analyze marketing channels###########
 id: popular-takeaways
 url: popular takeaways
 type: powerbi
-video: https://vimeo.com/701424855/b57e07ba61
+video: https://vimeo.com/718431335/579b5bfab7
 
 
 ##### Context
 
-<p>Now that you are more familiar with Just Eat Takeaway's order delivery data, let's generate some insights by building a chart and analyzing the data.</p>
+<p>Now that you are more familiar with SNS Bank marketing performance data, let's start analyzing the current account campaigns.</p>
 
 ##### Instructions
 
 ###### Step #1
 
-<p>Open the Just Eat Takeaway Decision Making with Tableau dashboard</p>
+<p>Open the <i>SNS Bank Marketing Performance Dashboard</i> from the <i>Exercise</i> folder</p>
 
 ####### Step Hint 
 
-<p>Double click on the Just Eat Takeaway Decision Making with Tableau .twb file.</p>
+<p>Double click on SNS Bank Marketing Performance .twb file.</p>
 
 ###### Step #2
 
-<p>Go to the MainDashboard page</p>
+<p>You are now looking at the <i>MainDashboard</i> page</p>
 
 ####### Step Hint 
 
@@ -137,12 +137,11 @@ video: https://vimeo.com/701424855/b57e07ba61
 
 ###### Step #3
 
-<p>Look at the Cuisine Distribution pie chart on the bottom left part.
-</p>
+<p>Take a look at the <i>Monthly New Accounts by Channel</i> chart in the upper left side</p>
 
 ####### Step Hint 
 
-<p>The Cuisine Distribution piechart is located on the bottom left part of the dashboard</p>
+<p>The Monthly New Accounts by Channel chart is located in the upper left part of the dashboard</p>
 
 ##### Task
 type: multichoice
@@ -150,96 +149,102 @@ answer: 3
 
 ###### Question
 
-<p>Which is the most popular cuisine takeaway choice amoung clients?</p>
+<p>Which was the most successful marketing accquisition channel for new accounts in May?</p>
 
 ###### Option #1
 
-<p>Chinese</p>
+<p>Organic Search</p>
 
 ####### Option Feedback
 
-<p>Not quite, please look cloosely at the pie chart.</p>
+<p>Not quite, please look cloosely at the chart.</p>
 
 ###### Option #2
 
-<p>Indian</p>
+<p>Social media</p>
 
 ####### Option Feedback
 
-<p>Although indian food is famouse, look again at the chart to identify the most popular choice!</p>
+<p>Although social media had a strong contribution, it was not the most successful channel!</p>
 
 ###### Option #3
 
-<p>Pizza</p>
+<p>Paid Search</p>
 
 ####### Option Feedback
 
-<p>Yes, indeed! Pizza is the most popular takeaway choice with 40.44%!</p>
+<p>Yes, indeed! More than 5000 accounts were created via organic search in May!</p>
 
 ###### Hint
 
 <p>Choose one of the provided options.</p>
 
 
-#### Exercise: Analyze top rated cusines###########
+#### Exercise: Analyze camapaign performance###########
 id: open-story
 url: open-story
 type: powerbi
-video: https://vimeo.com/701424855/b57e07ba61
+video: https://vimeo.com/718431335/579b5bfab7
 
 ##### Context
 
-<p>Now that you are more familiar with the Just Eat Takeaway delivery data, let's generate some insights by building a chart and analyzing the data.</p>
-
-<p>In this exercise you will build a chart to analyze top rated cuisines.</p>
+<p>Now that you are more familiar with the SNS Bank marketing data, let's generate some insights by building a chart and analyzing campaigns.</p>
 
 
 ##### Instructions
 
 ###### Step #1
 
-<p>Open the Just Eat Takeaway Decision Making with Tableau dashboard and click on the New Worksheet tab, next to MainDashboard.</p>
+<p>In the <i>SNS Bank Marketing Performance Dashboard</i>, click on the <i>New Worksheet</i> tab, next to <i>MainDashboard</i></p>
 
 ####### Step Hint 
 
-<p>Click on the New Worksheet, right next to the the MainDashboard page.</p>
+<p>Click on the New Worksheet, right next to the the MainDashboard page</p>
 
 ###### Step #2
 
-<p>Drag and drop the Restaurant filed from the Tables panel on the left to the Columns section in the upper part of the page</p>
+<p>Click on the <i>Data</i> tab in the upper left hand side to expand the <i>Data Pane</i></p>
 
 ####### Step Hint 
 
-<p>Simply click on the Cuisine field and then drag and drop it to the Columns section (which will become highlighted with orange after you click on the Restaurant field)</p>
+<p>Look closely on the left hand side and you will see a horizontal Data tab.</p>
 
 ###### Step #3
 
-<p>Similary, drag and drop the Avg Rating field from the Tables panel on the left to the Rows section in the upper part of the page.
+<p>Drag and drop the <i>Campaign Name</i> field under Tables section on the left to the Columns section in the upper part of the page</p>
+
+####### Step Hint 
+
+<p>Simply click on the Campaign Name field and then drag and drop it to the Columns section (which will become highlighted with orange after you click on the Restaurant field)</p>
+
+###### Step #4
+
+<p>Similarly, drag and drop the <i>Cost (EUR)</i> field under Tables section on the left to the Rows section in the upper part of the page
 </p>
 
 ####### Step Hint 
 
-<p>Drag and drop the Total Sales field do the Rows section (which will become highlighted with orange after you click on Total Sales)</p>
+<p>Drag and drop the Cost(EUR) field do the Rows section (which will become highlighted with orange after you click on Total Sales)</p>
 
-##### Task: Analyze cuisine ratings
+##### Task: Analyze camapaign costs
 type: open
-answer: Pizza
+answer: 26,350
  
 ###### Question
 
-<p>By analyzing the chart, which cuisine has the highest rating?</p>
+<p>By analyzing the chart, what was the exact cost of the most expensive campaign? (use <b>,</b> as thousands separator)</p>
 
 ###### Hint
 
-<p>Look at the chart and click on the highest bar chart to see which restaurant generated highest sales.</p>
+<p>Look at the chart and click on the highest bar chart to see which exact value of highest bar.</p>
 
 ###### Success Feedback
 
-<p>Correct! Pizza was rated with 4.13! Seems that clients really enjoy it. Buon appetito!</p>
+<p>Correct! The 25 EUR Bonus campaign for SNS Basis was 26,350 EUR!</p>
 
 ###### Failure Feedback
 
-<p>Not quite, look closely at the part coresponding to Dairy products only.</p>
+<p>Not quite, look closely at the chart again.</p>
 
 
 
@@ -247,7 +252,7 @@ answer: Pizza
 id: comp-bar
 url: comp-bar
 type: video
-video: https://vimeo.com/654067950
+video: https://vimeo.com/700812199
 
 
 #### Exercise: Tables and heatmaps##################
