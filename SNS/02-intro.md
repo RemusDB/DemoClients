@@ -1,10 +1,10 @@
-# Part: The need for data visualization
+# Part: Het belang van data visualisaties
 id: need-data-viz
 url: need-data-viz
 
 ## Description
 
-Understand why data visualization makes it easier to identify patterns and trends.
+Begrijp waarom het visualiseren van data het makkelijker maakt om inzichten te krijgen.
 
 ## Welcome Message
 

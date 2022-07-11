@@ -19,7 +19,7 @@ Congrats! You have successfully completed the first part of the PowerBI Fundamen
 id: whydl
 url: whydl
 
-#### Exercise: Het stellen van de juiste vraag###########################
+#### Exercise: Asking the right question###########################
 id: powerbi-getdata
 url: powerbi-getdata
 type: video
@@ -46,7 +46,7 @@ For now, let’s take a closer look at how to get to the business question.</p>
 
 <p>Let’s take a look at an example. You’re working on Scoober operations in the Netherlands. You discover that GMV is decreasing in Rotterdam. You notice that this is caused by the orders between 3 and 5PM, which is tea time. From your colleagues at Strategy you learn that competition is heating up.</p>
 
-#### Exercise: Soorten analytische problemen
+#### Exercise: Analytical problem types
 id: quiz-multichoice-demo
 url: quiz-multichoice-demo
 type: quiz
@@ -97,7 +97,7 @@ answer: 2
 
 
 
-#### Exercise: Waarom datageletterdheid? #####################################
+#### Exercise: Why data literacy? #####################################
 id: powerbi-intro
 url: powerbi-introduction
 type: video

@@ -1,10 +1,10 @@
-# Part: Building visual insights
+# Part: Ontwikkelen van visuele inzichten
 id: build-insight
 url: build-insight
 
 ## Description
 
-Build effective data visualizations that supports your narrative and helps communicating with data.
+Maak effectieve visualisaties die jouw verhaal ondersteunen en jou helpen te communiceren met data.
 
 ## Welcome Message
 

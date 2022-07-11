@@ -1,5 +1,5 @@
 
-# SNS Bank Data-Driven Decision Making with Tableau
+# SNS Bank Datagedreven Beslissingen met Tableau
 format_version: 3.0
 id: analyze-sns
 url: analyze-sns
@@ -10,26 +10,25 @@ estimated_time: 4
 
 ## Short Description
 
-To make great decisions every business professional should be able to acquire and analyze data.
+Door het zelf verzamelen en analyseren van data kan elke professional goede en snelle beslissingen maken.
 
 ## Long Description
 
 <div class="course_information description-div">
 <h2>Description</h2>
-<p>At SNS Bank, data is at the heart of every decision. But data needs the right skillset to process it and derive valuable insights from it.</p>
-
-<p>Tableau enables you to quickly and easily gather this data and analyze it for decision making.</p>
-<p>You will learn the most important techniques to analyze your data, including powerful visualizations. Finally, we show you how to integrate the analysis with your own experience and make confident decisions.</p>
-<p>In this course we will use SNS Bank dummy data.</p>
+<p>Bij SNS Bank is data belangrijk voor elke beslissing. Maar voordat je data kan analyseren of waardevolle inzichten uit de data kunt halen moet je beschikken over de juiste skills.</p>
+<p>Tableau geeft je de mogelijkheid om snel en gemakkelijk data te verzamelen en te analyseren voor het maken van beslissingen.</p>
+<p>In deze course leer je de belangrijkste technieken om data te analyseren, inclusief krachtige visualisaties. Daarnaast laten we je zien hoe je deze analyses kan combineren met je eigen ervaring zodat je zelfverzekerd een beslissing kunt nemen.</p>
+<p>In deze course maken we gebruik van dummy data van SNS bank.</p>
 </div>
 
 
 <div class="course_information profits-div">
 <h2>What am I going to get from this course?</h2>
 <ul>
-	<li>Understand how to visually analyze SNS Bank data </li>
-	<li>Interpret charts & dashboard quickly and accurately</li>
-	<li>Learn how to visualize the data for decision-making</li>
+	<li>Begrijp hoe je SNS bank kunt analyseren met visuals </li>
+	<li>Leer grafieken en dashboards snel en goed te intepreteren</li>
+	<li>Leer zelf hoe je data kunt visualiseren voor het maken van beslissingen</li>
 	<li>Derive insights & make decisions based interactive dashboard</li>
 </ul>
 </div>
