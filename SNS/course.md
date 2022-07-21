@@ -26,8 +26,8 @@ Door het zelf verzamelen en analyseren van data kan elke professional goede en s
 <div class="course_information profits-div">
 <h2>What am I going to get from this course?</h2>
 <ul>
-	<li>Begrijp hoe je SNS bank kunt analyseren met visuals </li>
-	<li>Leer grafieken en dashboards snel en goed te intepreteren</li>
+	<li>Begrijp hoe je SNS bank kunt analyseren met visuals</li>
+	<li>Leer grafieken en dashboards snel en goed te interpreteren</li>
 	<li>Leer zelf hoe je data kunt visualiseren voor het maken van beslissingen</li>
 	<li>Krijg inzichten en maak beslissingen met dashboards</li>
 </ul>

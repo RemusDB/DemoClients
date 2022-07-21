@@ -24,7 +24,7 @@ url: types-data
 id: kpi-card
 url: kpi-card
 type: video
-video: https://vimeo.com/718431335/579b5bfab7
+video: https://vimeo.com/728879430/a1fee1524f
 
 ##### Content
 
@@ -101,7 +101,7 @@ answer: 1
 
 ###### Hint
 
-<p>Choose one of the provided options.</p>
+<p>Kies één van de opties.</p>
 
 
 
@@ -110,7 +110,7 @@ answer: 1
 id: popular-takeaways
 url: popular takeaways
 type: powerbi
-video: https://vimeo.com/718431335/579b5bfab7
+video: https://vimeo.com/728879430/a1fee1524f
 
 
 ##### Context
@@ -121,11 +121,11 @@ video: https://vimeo.com/718431335/579b5bfab7
 
 ###### Step #1
 
-<p>Open het <i>SNS Bank Marketing Prestaties Dashboard</i> uit de <i>Exercise map</i>.</p>
+<p>Open het <i>SNS Bank Marketing Prestaties Dashboard</i> uit de <i>Exercise</i> map.</p>
 
 ####### Step Hint 
 
-<p>Double click on SNS Bank Marketing Performance .twb file.</p>
+<p>Dubbelklik op het SNS Bank Marketing Prestaties .twb bestand.</p>
 
 ###### Step #2
 
@@ -133,15 +133,15 @@ video: https://vimeo.com/718431335/579b5bfab7
 
 ####### Step Hint 
 
-<p>Look for the MainDashboard page in the bottom.</p>
+<p>Je kunt de Dashboard pagina onderaan vinden.</p>
 
 ###### Step #3
 
-<p>Kijk nu naar de Nieuwe betaalrekeningen per account per maand in de grafiek linksbovenin</p>
+<p>Kijk nu naar de <i>Nieuwe betaalrekeningen per account per maand</i> in de grafiek linksbovenin</p>
 
 ####### Step Hint 
 
-<p>The Monthly New Accounts by Channel chart is located in the upper left part of the dashboard</p>
+<p>Je kunt Nieuwe betaalrekeningen per account per maand linksbovenin het dashboard vinden.</p>
 
 ##### Task
 type: multichoice
@@ -184,7 +184,7 @@ answer: 3
 id: open-story
 url: open-story
 type: powerbi
-video: https://vimeo.com/718431335/579b5bfab7
+video: https://vimeo.com/728879430/a1fee1524f
 
 ##### Context
 
@@ -199,7 +199,7 @@ video: https://vimeo.com/718431335/579b5bfab7
 
 ####### Step Hint 
 
-<p>Click on the New Worksheet, right next to the the MainDashboard page</p>
+<p>Klik op New Worksheet, rechts van de Dashboard pagina.</p>
 
 ###### Step #2
 
@@ -207,7 +207,7 @@ video: https://vimeo.com/718431335/579b5bfab7
 
 ####### Step Hint 
 
-<p>Look closely on the left hand side and you will see a horizontal Data tab.</p>
+<p>Kijk goed naar de linkerkant en daar zie je een horizontale Data tab.</p>
 
 ###### Step #3
 
@@ -215,7 +215,7 @@ video: https://vimeo.com/718431335/579b5bfab7
 
 ####### Step Hint 
 
-<p>Simply click on the Campaign Name field and then drag and drop it to the Columns section (which will become highlighted with orange after you click on the Restaurant field)</p>
+<p>Klik op het Campagne Naam veld en sleep deze naar de Columns sectie (deze wordt oranje nadat je op het Campagne Naam veld klikt)</p>
 
 ###### Step #4
 
@@ -223,7 +223,7 @@ video: https://vimeo.com/718431335/579b5bfab7
 
 ####### Step Hint 
 
-<p>Drag and drop the Cost(EUR) field do the Rows section (which will become highlighted with orange after you click on Total Sales)</p>
+<p>Sleep het Kosten (in EUR) veld naar de Rows sectie (deze wordt oranje nadat je op Kosten (in EUR) klikt)</p>
 
 ##### Task: Analyze camapaign costs
 type: open
@@ -231,11 +231,11 @@ answer: 26,350
  
 ###### Question
 
-<p>By analyzing the chart, what was the exact cost of the most expensive campaign? (use <b>,</b> as thousands separator)</p>
+<p>Als je naar de grafiek kijkt, wat waren de precieze kosten van de duurste campange (gebruik , om duizend aan te geven)</p>
 
 ###### Hint
 
-<p>Look at the chart and click on the highest bar chart to see which exact value of highest bar.</p>
+<p>Kijk naar de staafdiagram en klik op de hoogste staaf om de precieze waarde te zien.</p>
 
 ###### Success Feedback
 

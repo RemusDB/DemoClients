@@ -54,46 +54,46 @@ answer: 3
 
 ##### Content
 
-<p>A data-driven decision process starts with asking the right question and understanding the problem. The analytical problem types are:</p>
+<p>Het datagedreven beslissingsproces begint met het stellen van de juiste vraag en het begrijpen van het probleem. De analytische probleemtypes zijn:</p>
 
 <p align="middle"><img src="/static/AnalyticalProblems.png" alt="recursion" align="middle" style="max-width: 100%"></p>
 
 
-##### Task: Current account types
+##### Task: Betaalrekeningen
 type: multichoice
 answer: 2
 
 ###### Question
 
-<p>As a marketing analyst at SNS Bank, you want to understand how many clients have account types Basis, Complete and Youth. What type of analytical problem type are you trying to solve?</p>
+<p>Je bent een marketing analyst bij SNS Bank en je wilt graag weten hoeveek klanten een SNS Basis, SNS Compleet of SNS Jongerenrekening hebben. Wat voor analytisch probleem ben je aan het oplossen?</p>
 
 ###### Option #1
 
-<p>Making predictions</p>
+<p>Voorspellen</p>
 
 ####### Option Feedback
 
-<p>Not quite. Predicting the future current account split would be an example of making predictions.</p>
+<p>Niet echt. Het voorspellen van de toekomstige verdeling van betaalrekening zou hier een voorbeeld van zijn.</p>
 
 ###### Option #2
 
-<p>Categorizing things</p>
+<p>Categoriseren</p>
 
 ####### Option Feedback
 
-<p>That’s correct! When you are dividing accounts into Basis, Complete and Youth you are categorizing things.</p>
+<p>Klopt helemaal! Wanneer je bankrekeningen verdeeld in Basis, Compleet en Jongerenrekening ben je aan het categoriseren.</p>
 
 ###### Option #3
 
-<p>Spotting something unusual</p>
+<p>Iets ongebruikelijks herkennen</p>
 
 ####### Option Feedback
 
-<p>Not exactly. An example of something unusual would be an abnormally higher number of accounts in a specific timeframe.</p>
+<p>Niet echt. Een voorbeeld van iets ongebruikselijks zou een groot aantal openingen van betaalrekeningen op een dag zijn.</p>
 
 ###### Hint
 
-<p>Out ot the 6 problem types above, try to understand under which one would fee income across multiple client types fall into.</p>
+<p>Uit de 6 bovengenoemde probleemtypes, probeer te begrijpen waar het verdelen van bankrekeningen onder valt.</p>
 
 
 
